@@ -1,1 +1,1 @@
-# student-teacher-information-system--
+# student-teacher-information-system
